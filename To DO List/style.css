@@ -1,0 +1,11 @@
+.input-box{
+    display: flex;
+}
+
+.input{
+    width: 80vw;
+}
+
+.btn:hover{
+    opacity: 50%;
+}

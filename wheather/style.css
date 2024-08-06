@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+.container{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#search{
+    height: 5vh;
+    width: 15vw;
+    border-radius: 10rem;
+    border: none;   
+    text-align:center;
+
+}
+
+.search-box{
+    margin: 4rem;
+}
+
+
+/* .content{
+    font-size: 3rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: darkmagenta;
+
+} */
+
+.city{
+    font-size: 3rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: aliceblue;
+  gap: 1rem;
+}
